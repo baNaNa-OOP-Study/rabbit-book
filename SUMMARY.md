@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🍌 Welcome to BaNaNa's Study](README.md)
+* [🍌 Welcome to baNaNa's Study](README.md)
 
 ## Overview
 
