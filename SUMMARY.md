@@ -1,7 +1,6 @@
 # Table of contents
 
-* [🍌 Welcome](README.md)
-* [👋 Welcome to A Product](welcome-to-a-product.md)
+* [🍌 Welcome to BaNaNa's Study](README.md)
 
 ## Overview
 
