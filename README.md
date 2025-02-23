@@ -1,11 +1,6 @@
 ---
 noIndex: true
-cover: .gitbook/assets/스터디 OG 태그.png
-coverY: -47.47540983606557
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
@@ -20,7 +15,7 @@ layout:
 
 # 🍌 Welcome to baNaNa's Study
 
-{% hint style="info" %}
+{% hint style="success" %}
 baNaNa는객체지향의 본질을 탐구하고, 단순한 개념 암기가 아닌 깊이 있는 이해와 실무 적용을 목표로 하는 스터디입니다. 책을 읽고 토론하며, 기술 면접 대비와 코드 적용까지 연결하는 실전 학습 방식을 추구합니다.
 {% endhint %}
 
