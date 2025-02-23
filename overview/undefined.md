@@ -42,7 +42,7 @@ layout:
 
 ***
 
-## <mark style="color:yellow;">멤버</mark>
+## <mark style="color:yellow;">**멤버**</mark>
 
 {% tabs %}
 {% tab title="여채현" %}
