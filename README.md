@@ -1,45 +1,44 @@
-# 🍌 Welcome to BaNaNa's Study
+---
+cover: .gitbook/assets/스터디 OG 태그.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+# 🍌 Welcome to baNaNa's Study
+
+{% hint style="success" %}
+baNaNa는객체지향의 본질을 탐구하고, 단순한 개념 암기가 아닌 깊이 있는 이해와 실무 적용을 목표로 하는 스터디입니다. 책을 읽고 토론하며, 기술 면접 대비와 코드 적용까지 연결하는 실전 학습 방식을 추구합니다.
 {% endhint %}
 
 ## Overview
 
-Here are a couple of example overviews from products with really great docs:
-
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
-
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
-
-## Quick links
-
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
+{% content-ref url="overview/undefined.md" %}
+[undefined.md](overview/undefined.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+{% content-ref url="overview/undefined-1.md" %}
+[undefined-1.md](overview/undefined-1.md)
 {% endcontent-ref %}
 
-## Get Started
 
-We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
-{% endcontent-ref %}
+## 🎯 Wiki의 목적
 
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
-{% endcontent-ref %}
+> 🔹 <mark style="color:yellow;">단순 필사가 아닌</mark>, 우리만의 지식 저장소\
+> 🔹 기술 면접 대비 – 핵심 개념, 꼬리 질문, 토론 정리\
+> 🔹 이론과 코드 적용을 연결하는 실전 학습\
+> 🔹 누구나 쉽게 찾아보고 기여할 수 있는 구조 구축
 
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
-{% endcontent-ref %}
