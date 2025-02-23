@@ -1,4 +1,5 @@
 ---
+noIndex: true
 cover: .gitbook/assets/스터디 OG 태그.png
 coverY: -47.47540983606557
 layout:
@@ -12,9 +13,9 @@ layout:
   tableOfContents:
     visible: true
   outline:
-    visible: true
-  pagination:
     visible: false
+  pagination:
+    visible: true
 ---
 
 # 🍌 Welcome to baNaNa's Study
