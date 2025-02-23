@@ -15,7 +15,7 @@ layout:
   outline:
     visible: false
   pagination:
-    visible: true
+    visible: false
 ---
 
 # 🍌 Welcome to baNaNa's Study
