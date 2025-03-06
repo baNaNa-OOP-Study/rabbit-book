@@ -7,7 +7,8 @@
 * [💡 스터디 개요](overview/undefined.md)
 * [✨ 진행 방식](overview/undefined-1.md)
 * [❓ Q\&A 및 토론](overview/q-and-a/README.md)
-  * [주요 질문 모음](overview/q-and-a/undefined.md)
+  * [01장 질문 모음](overview/q-and-a/01.md)
+  * [02장 질문 모음](overview/q-and-a/02.md)
 
 ## 01장: 협력하는 객체들의 공동체
 
