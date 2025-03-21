@@ -37,6 +37,10 @@
 ## 04장: 역할, 책임, 협력
 
 * [협력](04/undefined.md)
+* [책임](04/undefined-1.md)
+* [역할](04/undefined-2.md)
+* [객체의 모양을 결정하는 객체](04/undefined-3.md)
+* [객체지향 설계 기법](04/undefined-4.md)
 
 ## 05장: 책임과 메시지
 
